@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Lesson11\bin\Debug\net8.0\Data\Movies.json
+C:\Users\User\Desktop\Lesson11\bin\Debug\net8.0\Data\Users.json
+C:\Users\User\Desktop\Lesson11\bin\Debug\net8.0\Lesson11.exe
+C:\Users\User\Desktop\Lesson11\bin\Debug\net8.0\Lesson11.deps.json
+C:\Users\User\Desktop\Lesson11\bin\Debug\net8.0\Lesson11.runtimeconfig.json
+C:\Users\User\Desktop\Lesson11\bin\Debug\net8.0\Lesson11.dll
+C:\Users\User\Desktop\Lesson11\bin\Debug\net8.0\Lesson11.pdb
+C:\Users\User\Desktop\Lesson11\obj\Debug\net8.0\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lesson11\obj\Debug\net8.0\Lesson11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lesson11\obj\Debug\net8.0\Lesson11.AssemblyInfo.cs
+C:\Users\User\Desktop\Lesson11\obj\Debug\net8.0\Lesson11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lesson11\obj\Debug\net8.0\Lesson11.dll
+C:\Users\User\Desktop\Lesson11\obj\Debug\net8.0\refint\Lesson11.dll
+C:\Users\User\Desktop\Lesson11\obj\Debug\net8.0\Lesson11.pdb
+C:\Users\User\Desktop\Lesson11\obj\Debug\net8.0\Lesson11.genruntimeconfig.cache
+C:\Users\User\Desktop\Lesson11\obj\Debug\net8.0\ref\Lesson11.dll
